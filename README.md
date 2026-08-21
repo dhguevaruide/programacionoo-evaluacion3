@@ -1,2 +1,3 @@
-# programacionoo-evaluacion3
-Ejercicios Evaluacion 3 en Go
+# Programacionoo evaluacion3
+
+## Pregunta a 
