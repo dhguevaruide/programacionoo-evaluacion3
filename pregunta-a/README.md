@@ -1,4 +1,14 @@
 # Pregunta a
+
+## En un rate limiter basado en time.Ticker, ¿qué representa normalmente cada tick?  
+  
+  
+a) Una nueva oportunidad para permitir una operación.  
+b) La creación de una goroutine nueva que se ejecutará secuencialmente concurrente.  
+c) El cierre obligatorio del programa retornando el control al programa anterior.  
+d) Un error del contexto el cual será controlado por el flujo de funciones  
+
+
 ## go run .\pregunta-a\main.go
 Procesando petición: 0 2026-08-21 17:12:26.0948204 -0500 -05 m=+0.500789801  
 Procesando petición: 1 2026-08-21 17:12:26.5948726 -0500 -05 m=+1.000842001  
